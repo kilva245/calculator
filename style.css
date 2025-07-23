@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #ecf0f3;
+    background-color: #adadad;
 }
 
 .container {
@@ -33,7 +33,7 @@ input{
     width: 260px;
     box-shadow: inset -5px -5px 12px #ffffff,
                 inset 5px 5px 12px rgba(0, 0, 0, .16);
-    background-color: #ecf0f3;
+    background-color: #d9d9d9;
     border: none;
     border-radius: 30px;
     text-align: end;
